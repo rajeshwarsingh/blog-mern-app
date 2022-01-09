@@ -1,6 +1,6 @@
-## Blog App
+## Blog MERN App
 React blog application which consists of the following two pages.
-1. Blog List Page:- **'/'** landing page /
+1. Blog List Page:- **'/'** landing page 
 ○ This page displays the list of all blog posts used **react-table for paginated list view**.
 ○ When a user clicks on a list item it opens the blog view page to display the blog
 content.
